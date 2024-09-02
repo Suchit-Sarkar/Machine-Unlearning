@@ -1,2 +1,2 @@
 # Machine-Unlearning
-This project demonstrates a few approaches using which the influence of training data can be removed from trained models.
+This is the project for machine unlearning by data poisoning.
